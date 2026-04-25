@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VplusCheckerGV v0.1
+## Notes: |cFFFFD100by Wayborn|r|n|nThis addon checks to see if some global variable names are already in use by other addons. So that I can be sure that I can use these names in the future without breaking the work of other addons.
+## Author: Wayborn
+## Version: 0.1
+
+VplusCheckerGV.lua
