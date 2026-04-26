@@ -26,12 +26,12 @@ v0.1 - First release.
     Source code (zip)
     Source code (tar.gz)
 ```
-2. Open the downloaded archive
+2. Open downloaded archive (zip or tar.gz)
 3. Copy folder `VplusCheckerGV` to `WOW\Interface\AddOns`
 ```
 VplusCheckerGV-<version>.zip
-├── LICENSE
-├── README
 └── VplusCheckerGV-<version>\
-    └── VplusCheckerGV\       <--
+    ├── VplusCheckerGV\       <--
+    ├── README
+    └── LICENSE
 ```
