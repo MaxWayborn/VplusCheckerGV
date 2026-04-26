@@ -1,25 +1,6 @@
 # VplusCheckerGV
 
 ## Installation
-1. [Download latest release](../../releases/latest/download/archive.zip)
-1. Open contents of the downloaded archive
-1. Copy folder `VplusCheckerGV` to `Path to installed game\Interface\AddOns`
-
-![IMG_1](IMG_1.png)
-
-## Releases
-[Latest release](../../releases/latest)
-[Latest release](/releases/latest)
-
-v0.1 - First release.
-
-1. [Download latest release](../../releases/latest/download/v0.1.zip)
-
-
-
-------------------------------------------------------------------
-
-## Installation
 1. [Download](../../releases/latest) source code for latest release
 ```
 ▼ Assets
