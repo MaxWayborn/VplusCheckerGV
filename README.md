@@ -15,9 +15,14 @@ v0.1 - First release.
 
 1. [Download latest release](../../releases/latest/download/v0.1.zip)
 
+
+
+------------------------------------------------------------------
+
+## Installation
+1. Download the source code for the latest release
 ```
 ▼ Assets
-2
-Source code (zip)
-Source code (tar.gz)
+    Source code (zip)
+    Source code (tar.gz)
 ```
