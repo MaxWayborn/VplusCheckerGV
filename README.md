@@ -20,7 +20,7 @@ v0.1 - First release.
 ------------------------------------------------------------------
 
 ## Installation
-1. Download source code of [latest release](../../releases/latest)
+1. [Download](../../releases/latest) source code for latest release
 ```
 ▼ Assets
     Source code (zip)
