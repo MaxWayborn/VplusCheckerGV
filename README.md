@@ -11,3 +11,5 @@
 [Latest release](../../releases/latest)
 
 v0.1 - First release.
+
+1. [Download latest release](../../releases/latest/download/v0.1.zip)
