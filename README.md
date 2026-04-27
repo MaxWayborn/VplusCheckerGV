@@ -12,6 +12,12 @@ VplusCheckerGV-<version>.zip
     └── LICENSE
 ```
 
+--------------------------------------
+
+1. [Download](../../releases/latest) latest release (zip or tar.gz file)
+1. Open downloaded file with appropriate archiver
+1. Copy folder `VplusCheckerGV` to `WoW\Interface\AddOns`
+
 <!--
 1. Download latest release (zip or tar.gz)
 2. Open archive with source code
